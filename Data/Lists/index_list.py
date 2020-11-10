@@ -10,3 +10,13 @@ def run():
     print("{} for {} steps".format(dir_path[4],dir_path[5]))
     print("{} for {} steps".format(dir_path[6],dir_path[7]))
 run()
+
+def gang():
+    print("Loading gang....")
+    friends["Scooby Doo","Shaggy Rogers","Fred Jones","Daphne Blake","Velma Dinkley"]
+    return gang
+    
+def run():
+    print(friends)
+    print("....Done!")
+run()
