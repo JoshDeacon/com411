@@ -1,0 +1,5 @@
+import 
+
+def coordinate():
+print("Please enter an x value:")
+x_value = int(input())
